@@ -3,4 +3,5 @@
     <item name="newNumber" type="id" />
     <item name="result" type="id" />
     <item name="button9" type="id" />
+    <item name="operation" type="id" />
 </resources>
